@@ -1,0 +1,20 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  margin-bottom: 2rem;
+}
+
+.card {
+  margin-bottom: 2rem;
+}
+
+.table {
+  background: #fff;
+}
+
+h2, h3 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
